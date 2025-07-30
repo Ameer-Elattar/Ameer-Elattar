@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **software Engineer in Visit Ventures**
 
-- 🌱 I’m currently learning **Node.js(Expres.js, Nest.Js) - Asp.Net**
+- 🌱 I’m currently interested **Node.js(Expres.js, Nest.Js) - Asp.Net**
 
 - 💬 Ask me about **Backend and databases**
 
