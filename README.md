@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amer.alattar.ae@gmail.com**
 
-- 📄 Know about my experiences [Ameer-Elattar-CV](https://drive.google.com/file/d/16FoXGpI8VlLvazAkWjQ1tiZmYpNCeR_C/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16FoXGpI8VlLvazAkWjQ1tiZmYpNCeR_C/view?usp=sharing" target="blank">See my updated CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
